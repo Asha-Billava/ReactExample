@@ -1,0 +1,35 @@
+{
+  "name": "reactexample",
+  "version": "1.0.0",
+  "description": "this is react food app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asha-Billava/ReactExample.git"
+  },
+  "keywords": [
+    "react",
+    "foodApp"
+  ],
+  "author": "asha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asha-Billava/ReactExample/issues"
+  },
+  "homepage": "https://github.com/Asha-Billava/ReactExample#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
